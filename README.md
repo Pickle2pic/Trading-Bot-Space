@@ -1,4 +1,4 @@
-# 🚀Universal solana trading bot
+# 💎Universal solana trading bot
 
 🌟
 User-friendly customized token launchpad, universal trading bots on several DEXS.
@@ -17,15 +17,16 @@ Tech-Typescript Rust Mongodb
 #Bonkfun
 
 
-@Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker
+@Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker @mev
 
 ## User friendly
 |   |   |
 |---|---|
 | <img width="500" alt="bot (2)" src="https://github.com/user-attachments/assets/bd15dd54-df5a-4c6a-9ee0-8a516e92c7f7" /> | <img width="500" alt="bot (3)" src="https://github.com/user-attachments/assets/cf6af7d7-818f-4fd7-a615-72b3d4d7543a" /> |
 
+Users can launch theirs token on several dexs and can use several trading bots to boost ur token or idea...
 
-##⚡  Performance
+##⚡  Performance 
 - Raydium Volume-Increases volume of the pool through endless swap of buy and sell transactions
 - Pumpfun Bundler-Pumpfun bundler with 20 wallets that creates pool in pumpfun and bundle buy with 20 wallets using jito bundle
 - Pumpswap sniper-A sniper bot is a robot that watches for new coins being added to PumpSwap (a Solana-based trading site).
@@ -40,14 +41,14 @@ Tech-Typescript Rust Mongodb
 - Bonkfun sniper-Ultra-fast Bonk.fun Sniper Bot using Helius Laserstream gRPC for real-time Solana transaction streaming and automated sniping execution.
 - Pumpfun laser stream-Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency sniper bot built in Rust designed for the Solana blockchain.
 
-## Profit
+##🏆 Profit
 <img width="1217" height="592" alt="trading (1)" src="https://github.com/user-attachments/assets/b7306657-4eae-4614-8391-d9fea5b1201c" />
 <img width="1212" height="605" alt="trading (2)" src="https://github.com/user-attachments/assets/bd354e2a-1e56-4b0e-b149-016fa9ce4b56" />
 <img width="1214" height="584" alt="trading (3)" src="https://github.com/user-attachments/assets/f32ada75-9651-464e-aea7-c2137e074f68" />
 
 
 ## Features
- -t.me/web3_maxim
+- t.me/web3_maxim
 - Solana wallet generation and key management
 - Token minting with custom metadata
 - IPFS metadata upload via Pinata
@@ -55,7 +56,7 @@ Tech-Typescript Rust Mongodb
 - User authentication and token tracking
 - Modern React frontend with Material-UI
   
-## Prerequisites
+##🎲 Prerequisites
 
 - Node.js (v16 or higher)
 -Typescript
@@ -64,6 +65,6 @@ Tech-Typescript Rust Mongodb
 
 
 
-MIT 
+🏹MIT 
 t.me/web3_maxim
 X.com/web3_maxi
