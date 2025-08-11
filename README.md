@@ -20,10 +20,10 @@ Tech-Typescript Rust Mongodb
 @Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker
 
 ## User friendly
-<img width="1073" height="559" alt="bot (2)" src="https://github.com/user-attachments/assets/bd15dd54-df5a-4c6a-9ee0-8a516e92c7f7" />
-![alt text](public/bot(1).png)
-![alt text](public/bot(2).png)
-![alt text](public/bot(3).png)
+|   |   |
+|---|---|
+| <img width="500" alt="bot (2)" src="https://github.com/user-attachments/assets/bd15dd54-df5a-4c6a-9ee0-8a516e92c7f7" /> | <img width="500" alt="bot (3)" src="https://github.com/user-attachments/assets/cf6af7d7-818f-4fd7-a615-72b3d4d7543a" /> |
+
 
 ##⚡  Performance
 - Raydium Volume-Increases volume of the pool through endless swap of buy and sell transactions
@@ -41,7 +41,10 @@ Tech-Typescript Rust Mongodb
 - Pumpfun laser stream-Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency sniper bot built in Rust designed for the Solana blockchain.
 
 ## Profit
-![alt text](client/public/PorkerRoom.jpg)
+<img width="1217" height="592" alt="trading (1)" src="https://github.com/user-attachments/assets/b7306657-4eae-4614-8391-d9fea5b1201c" />
+<img width="1212" height="605" alt="trading (2)" src="https://github.com/user-attachments/assets/bd354e2a-1e56-4b0e-b149-016fa9ce4b56" />
+<img width="1214" height="584" alt="trading (3)" src="https://github.com/user-attachments/assets/f32ada75-9651-464e-aea7-c2137e074f68" />
+
 
 ## Features
  -t.me/web3_maxim
@@ -52,10 +55,6 @@ Tech-Typescript Rust Mongodb
 - User authentication and token tracking
 - Modern React frontend with Material-UI
   
-![alt text](assets/bot(1).png)
-<img src="https://raw.githubusercontent.com/osmanx8/Universal_Memecoin_Trading_Token_Launchpad_Bot/main/assets/bot(2).png" alt="bot2" />
-<img src="https://raw.githubusercontent.com/osmanx8/Universal_Memecoin_Trading_Token_Launchpad_Bot/main/assets/bot(3).png" alt="bot3" />
-
 ## Prerequisites
 
 - Node.js (v16 or higher)
