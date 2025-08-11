@@ -1,6 +1,7 @@
-# 💎Universal solana trading bot
+# 💎 solana trading bot
 
 🌟
+Universal solana trading bots
 User-friendly customized token launchpad, universal trading bots on several DEXS.
 Tech-Typescript Rust Mongodb
 
