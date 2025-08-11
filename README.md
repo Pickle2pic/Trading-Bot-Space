@@ -19,9 +19,9 @@ Tech-Typescript Rust Mongodb
 @Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker
 
 ## User friendly
-![alt text](client/public/bot(1).png)
-![alt text](client/public/bot(2).png)
-![alt text](client/public/bot(3).png)
+![alt text](public/bot(1).png)
+![alt text](public/bot(2).png)
+![alt text](public/bot(3).png)
 
 ##⚡  Performance
 - Raydium Volume-Increases volume of the pool through endless swap of buy and sell transactions
