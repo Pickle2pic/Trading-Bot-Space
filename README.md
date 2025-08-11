@@ -16,9 +16,11 @@ Tech-Typescript Rust Mongodb
 #Vertigo 
 #Bonkfun
 
+
 @Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker
 
 ## User friendly
+<img width="1073" height="559" alt="bot (2)" src="https://github.com/user-attachments/assets/bd15dd54-df5a-4c6a-9ee0-8a516e92c7f7" />
 ![alt text](public/bot(1).png)
 ![alt text](public/bot(2).png)
 ![alt text](public/bot(3).png)
