@@ -5,6 +5,7 @@ Universal solana trading bots
 User-friendly customized token launchpad, universal trading bots on several DEXS.
 Tech-Typescript Rust Mongodb
 
+#Bonkfun
 #Pump AMM 
 #Raydium V4
 #Raydium CPMM
@@ -15,7 +16,7 @@ Tech-Typescript Rust Mongodb
 #Ocra 
 #Solfi 
 #Vertigo 
-#Bonkfun
+
 
 
 @Bundler @sniper @volume @copy-trading @arbitrage @marketing-maker @mev
